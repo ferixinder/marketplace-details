@@ -1,2 +1,7 @@
-# marketplace-details
-Shows Minecraft Marketplace Project Details
+# Minecraft Marketplace Project Details
+
+## Usage
+
+```php
+Replace "YOUR_PROJECT_ID" from the index.php file.
+```
